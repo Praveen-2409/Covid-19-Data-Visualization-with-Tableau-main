@@ -57,13 +57,9 @@ Refer to the [`Covid Data Visualization with Tableau_010925.sql`](./Covid%20Data
 
 ## 👤 Author
 
-**Balachandharsriram M**  
-- **Roll No**: 717822i106  
+**JAYAPRAVEEN S**  
+- **Roll No**: 717822i219  
 - **Department**: AD  
 - **Subject**: Big Data Analysis  
 
 ---
-
-## 📜 License
-
-This project is for educational purposes. Data belongs to respective sources.
